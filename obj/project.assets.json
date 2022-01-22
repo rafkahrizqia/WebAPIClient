@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/var/root/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/taufikshelle/Projects/WebAPIClient/WebAPIClient.csproj",
+      "projectName": "WebAPIClient",
+      "projectPath": "/Users/taufikshelle/Projects/WebAPIClient/WebAPIClient.csproj",
+      "packagesPath": "/var/root/.nuget/packages/",
+      "outputPath": "/Users/taufikshelle/Projects/WebAPIClient/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/var/root/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
